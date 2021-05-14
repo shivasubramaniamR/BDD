@@ -77,3 +77,24 @@ Then Credit Card confirmation page is displayed
 Then Credit Card confirmation page is not displayed
 But error message is displayed
 
+# Installation
+
+## Java
+    Download Java from https://www.java.com/en/
+    Set Classpath from https://docs.oracle.com/javase/tutorial/essential/environment/paths.html
+    
+## Eclipse
+   Download Eclipse from https://www.eclipse.org/
+   Download Cucumber support plugin called "Natural" from eclipse market place
+   
+## Cucumber
+   The below jars are required
+   1. Cucumber-java
+   2. Cucumber-junit
+
+### Cucumber Components
+   1.Feature Files
+   2.Step Definitions
+   3.Test Runner
+   
+
