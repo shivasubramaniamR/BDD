@@ -98,7 +98,7 @@ But error message is displayed
    3. Test Runner
 
 ### Auto generate the Step definition files
-   1. Run the Feature File alone and we can find the Step definition template in the output suggestion
+   1. Run the Runner File and we can find the Step definition template in the output suggestion
    2. Tidy Gherkin Chrome Plugin
    
 
