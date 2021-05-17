@@ -93,8 +93,12 @@ But error message is displayed
    2. Cucumber-junit
 
 ### Cucumber Components
-   1.Feature Files
-   2.Step Definitions
-   3.Test Runner
+   1. Feature Files
+   2. Step Definitions
+   3. Test Runner
+
+### Auto generate the Step definition files
+   1. Run the Feature File alone and we can find the Step definition template in the output suggestion
+   2. Tidy Gherkin Chrome Plugin
    
 
